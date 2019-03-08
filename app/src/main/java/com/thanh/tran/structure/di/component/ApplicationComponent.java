@@ -10,6 +10,8 @@ import com.thanh.tran.structure.di.qualifiers.ApplicationContext;
 import com.thanh.tran.structure.di.retrofit.APIInterface;
 import com.thanh.tran.structure.di.scope.ApplicationScope;
 
+import javax.inject.Named;
+
 import dagger.Component;
 
 @ApplicationScope
